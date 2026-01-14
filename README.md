@@ -1,2 +1,2 @@
 # ovali
-a simplr frontend template
+a simple frontend template
